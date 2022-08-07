@@ -88,7 +88,7 @@
             </sap:WorkflowViewStateService.ViewState>
             <ui:Comment sap:VirtualizedContainerService.HintSize="842,74" sap2010:WorkflowViewState.IdRef="Comment_4" Text="Create a Zoho desk Ticket from the Request excel file" />
             <ui:PathExists Resource="{x:Null}" DisplayName="Path Exists" Exists="[boolFileExists]" sap:VirtualizedContainerService.HintSize="842,89" sap2010:WorkflowViewState.IdRef="PathExists_1" Path="[Environment.CurrentDirectory+&quot;\Requests\Request.xlsx&quot;]" PathType="File" />
-            <If Condition="[boolFileExists]" sap:VirtualizedContainerService.HintSize="842,800" sap2010:WorkflowViewState.IdRef="If_1">
+            <If Condition="[boolFileExists]" DisplayName="If (Request file exists)" sap:VirtualizedContainerService.HintSize="842,800" sap2010:WorkflowViewState.IdRef="If_1">
               <If.Then>
                 <Sequence sap:VirtualizedContainerService.HintSize="421,642" sap2010:WorkflowViewState.IdRef="Sequence_7">
                   <Sequence.Variables>
