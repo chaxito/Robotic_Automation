@@ -25,7 +25,7 @@ For more information you can contact me via email <span>cmcharels.muli@gmail.com
 
 ## Licence/Copyright
 
-For licence/copyright information check on the <a href="[LICENCE](https://github.com/chaxito/Robotic_Automation/blob/main/LICENSE)"><strong>Licence</strong></a> file.
+For licence/copyright information check on the <a href="https://github.com/chaxito/Robotic_Automation/blob/main/LICENSE"><strong>Licence</strong></a> file.
 
 ## Credits
 Special appreciation given to Moringa School.
